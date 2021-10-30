@@ -23,3 +23,4 @@ clone this repo and just write npm install it will automatically prepare the sit
 This is Dynamic blogging website build using node and express. I used ejs templating to get rid to writing repeatitive code. Lodash is used in order to match the excat title keyword for the blog post in order to make the post page dynamically using exact same name
 </p>
 Here is the demo of the website:
+![page1](https://user-images.githubusercontent.com/67573427/139557665-65730d55-f42d-4381-a17d-98699cdc3c39.png)
