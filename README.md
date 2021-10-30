@@ -11,7 +11,7 @@ clone this repo and just write npm install it will automatically prepare the sit
 <li>Express</li>
 </ul>
 
-<h1>Packaes used/h1>
+<h1>Packaes used</h1>
 <ul>
 <li>Ejs</li>
 <li>Nodemon</li>
